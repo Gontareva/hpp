@@ -1,0 +1,6 @@
+.DS_Store
+files/.cache/*
+files/.DS_Store
+.idea/*
+rm/*
+check/*
